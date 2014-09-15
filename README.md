@@ -1,6 +1,5 @@
 ##myos.android.examples
 
-
 * To install myOS for Android clone or fork myos.android.examples repo into path myos/android/examples
 
 * For more info:
