@@ -7,6 +7,7 @@
   * [myos.android.sdk](https://github.com/amraboelela/myos.android.sdk)
   
 * Update PATH in ~/.bash_profile, example:
+
         export PATH=~/myos/android/sdk/scripts:~/develop/adt/ndk:~/develop/adt/sdk/tools:~/develop/adt/sdk/platform-tools:$PATH
 
 * Add MYOS_PATH line to ~/.bash_profile, example:
