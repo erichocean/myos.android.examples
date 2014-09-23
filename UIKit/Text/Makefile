@@ -8,4 +8,4 @@ OBJECTS = \
     rd_main.o \
     AppDelegate.o \
 
-include ${MY_FRAMEWORKS_PATH}/resources/makefile-shared
+include ${MYOS_PATH}/android/sdk/resources/makefile-shared
